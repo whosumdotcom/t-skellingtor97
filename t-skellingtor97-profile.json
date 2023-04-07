@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T02:28:14Z",
+  "IdClaims": [
+    {
+      "Claim": "t:skellingtor97"
+    },
+    {
+      "Claim": "gh:skellingtor"
+    },
+    {
+      "Claim": "mdon:@skellingtor@ohai.social"
+    },
+    {
+      "Claim": "yt:@skellingtor97"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ed181ab4331d1fe5bf462a26",
+    "Timestamp": "2023-04-07T02:32:17Z",
+    "Signature": "a29d6d1b7600cf7004c6b6f12f8fc51138cd421b26312ce1ac0558b8b1babf503baf175c51dffe59c3b48b79c0bc5ebed7a5b4900ba6f7797ddddfb5e289357ef9a7d449d0395115cab5defeab0d6dd0ac340eaa3df37daf29b065b94a7f8f012a240197acf5fa5e82c07aebf44630632bdc5c05874d6390a2cedf27526d5454324a6945356427597f6f5c8cdf1e2fa7e1b046ca70f8cc1f2ebff64f899868229b620635df04fdcaa591e4e28b88ec30690df93ea944eeedaf329e743e4b5d44e96bf34ff79cd6ba1362d71152f65474efcd785a06b64601867761527260b5a12f97fcab363c06c0461894bc2a83ec07feadf187e573c2a77e7034accf1afc85"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "23f52f3ab3c7c4f8ba9cfbd5d04d4ef065c55e1872d64c9e9cfebd8736562e11",
+  "ContentToHash": "v1|gh:skellingtor,mdon:@skellingtor@ohai.social,med:no-account,post:no-account,spout:no-account,ss:no-account,t:skellingtor97,yt:@skellingtor97|2023-04-07T02:28:14Z"
+}
